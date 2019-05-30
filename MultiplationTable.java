@@ -1,5 +1,5 @@
 package practice2;
-
+ 
 public class MultiplationTable {
 	public static void main(String[] args) {
 		
