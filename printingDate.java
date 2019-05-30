@@ -1,7 +1,7 @@
 package practice6;
 
 import java.util.Scanner;
-
+ 
 public class printingDate {
 
 	public static void main(String[] args) {
