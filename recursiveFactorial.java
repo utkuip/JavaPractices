@@ -2,7 +2,7 @@ package practice4;
 
 import java.util.Scanner;
 
-public class recursiveFaktoriel {
+public class recursiveFactorial {
 
 	public static void main(String[] args) {
 		int i=1;
