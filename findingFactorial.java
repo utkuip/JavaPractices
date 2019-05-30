@@ -1,7 +1,7 @@
 package practice3;
 import java.util.Scanner;
 
-public class faktorielBulma {
+public class findingFactorial {
 
 	public static void main(String[] args) {
 		int fact =1;
