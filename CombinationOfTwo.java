@@ -1,7 +1,7 @@
 package practice5;
 
 import java.util.Scanner;
-
+ 
 public class CombinationOfTwo {
 
 	public static void main(String[] args) {
